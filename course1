@@ -5,3 +5,14 @@ Important Points from Week 1
 Characteristics of Database : Persistency, Inter-related, Shared.
 Apart from the data, two important things in a database are Entities and Reltionships.
 Data administrator has more planning responsibilities than database administrator.
+Central repositories in data warehouse usually can be populated from Operational database and external sources.
+
+
+C:\Program Files\Oracle\VirtualBox ... destination folder for Oracle VM
+
+Week 2
+To make use of relational databases, we use matching values.
+The equivalent set-oriented terminologies for the table-oriented terminologies for Table, Row and Column are : 
+      Relation, Tuple and Attribute.
+     
+Entity integrity means: Rows cannot share the same primary key values.
