@@ -1,4 +1,4 @@
 # bookish-succotash
-Courses, MAQ Software
+MAQ Software
 
-Detailed and archived the best I could.
+Data Warehousing for Business Intelligence Specialization
