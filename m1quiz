@@ -1,0 +1,58 @@
+Course 2 : Data Warehouse Concepts and Architecture.
+
+Module 1.
+Graded Quiz.
+
+1. DBMSs were lacking which type of feature for business intelligence processing in the 1980s?
+Ans : Features for summary data retrieval, storage, and optimization
+
+2. The management reason inhibiting the deployment of data warehouses in the 1980s is?
+Ans : Lack of integration among operational databases and external data sources
+
+3. Time-variant indicates that a data warehouse contains
+Ans : snapshots of business processes captured at different points in time.
+
+4. Nonvolatile indicates that a data warehouse uses
+Ans : new data appended periodically with relatively few updates of existing data.
+
+5. Intangible benefits of a data warehouse may include
+Ans : Improvements in data standards.
+
+6. The scope learning curve has the following characteristics EXCEPT
+Ans : rapid decline in transformation cost
+
+7. The top down or data warehouse approach has
+Ans : more project risk and more potential business value.
+
+8. Moving from the infant to the child maturity stages is difficult because
+Ans : much higher level of investment is necessary in the child stage.
+
+9. Moving from the teenager to the adult maturity stages is difficult because
+Ans : the strategic importance of a data warehouse must be made.
+
+10. The learning curve for skills is used in
+Ans : the business value learning curve.
+
+11. The performance limitation inhibiting usage of operational databases for higher level decision making in the 1980s was
+Ans : Inability of a single database to support both transaction processing and business intelligence
+
+12. Integrated indicates that a data warehouse involves
+Ans : many transformations to unify source data from operational databases and external data sources.
+
+13. The business value learning curve and data transformation learning curve both have
+Ans : fixed scope.
+
+14. The project relationship graphs demonstrate tradeoffs between
+Ans : business value and risk as scope changes.
+
+15. Disadvantages for using a data warehouse cloud service are:
+Ans : higher variable costs.
+
+16. The learning curve for production is used in
+Ans : the data transformation learning curve.
+
+17. Select choices about data characteristics that differentiate data warehouses from operational databases.
+Ans : Data warehouses contain only summary data. (wrong)
+ 
+18. The bottom up or data mart approach has
+Ans : less project risk and less potential business value.
