@@ -1,4 +1,4 @@
-# bookish-succotash
-MAQ Software
 
-Data Warehousing for Business Intelligence Specialization
+
+# Data Warehousing for Business Intelligence Specialization
+Coursera
