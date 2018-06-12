@@ -1,0 +1,231 @@
+1 Select choices about data characteristics that differentiate data warehouses from operational databases.
+
+
+Data warehouses typically relax normalization levels.
+
+
+Data warehouses contain only summary data.
+
+
+Data warehouses queries contain typically involve thousands of rows.
+
+
+Data warehouses are highly volatile.
+
+Question 2
+The performance limitation inhibiting usage of operational databases for higher level decision making was
+
+
+Missing features for summary data
+
+
+Inability of a single database to support both transaction processing and business intelligence.
+
+
+Lack of optimizing compilers
+
+
+Lack of support for transaction processing.
+
+Question 3
+Early DBMSs were lacking which type of feature for business intelligence processing?
+
+
+Support for transaction processing
+
+
+Non procedural query languages
+
+
+Features for summary data retrieval, storage, and optimization
+
+
+Optimizing compilers
+
+
+Question 4
+The management reason inhibiting deployment of data warehouses was
+
+
+Lack of integration among operational databases and external data sources
+
+
+Missing features for summary data
+
+
+Performance limitations of a single database for transaction processing and business intelligence
+
+
+Lack of competition in the database industry
+
+
+Question 5
+Relational DBMSs have a dominant position in the market for data warehouse management software because
+
+
+Highly scalable nature of data cube engines
+
+
+Performance improvements for data warehouse developed by DBMS vendors
+
+
+New features for data warehouses developed by DBMS vendors
+
+
+Dominance of relational DBMSs for operational databases
+
+
+Question 6
+Identify summary data management features for data warehouses
+
+
+SQL statement to define traditional relational views with derived data that are not stored
+
+
+Design tools to determine best set of materialized views
+
+
+Query rewriting to combine materialized views and user queries
+
+
+SQL statement to define materialized views with derived data that are stored and refreshed
+
+
+Question 7
+Identify parallel processing features for data warehouses
+
+
+Parallel processing for loading large files
+
+
+High performance transaction processing
+
+
+Parallel processing that is not transparent with tedious coding to utilize
+
+
+Parallel processing for join and summary calculations in queries
+
+Question 8
+A constellation schema has multiple fact tables.
+
+
+True
+
+
+False
+
+
+Question 9
+The Inventory Data Warehouse used in assignments is a
+
+
+star schema.
+
+
+constellation schema.
+
+
+snowflake schema.
+
+
+combination of a snowflake and constellation schema.
+
+
+Question 10
+The schema of the Colorado Education Data Warehouse is a
+
+
+a complex star schema with a single fact table.
+
+
+a complex snowflake schema with a single fact table.
+
+
+a simple star schema with a single page schema diagram.
+
+
+a complex constellation schema with some level of snowflaking and denormalization.
+
+
+Question 11
+The motivation for the Colorado Education Data Warehouse was
+
+
+a voluntary movement by school districts to share assessments.
+
+
+a set of lawsuits mandating school districts to share assessment results.
+
+
+a set of laws mandating accountability for K-12 education in Colorado, USA.
+
+
+a voluntary movement by parents to share assessments across school districts.
+
+
+
+Question 12
+Identify major parts of the OMOP Common Data Model.
+
+
+Health system data
+
+
+Health economics data
+
+
+Derived elements for conditions, cohorts, drugs, and dosages
+
+
+Clinical data
+
+
+
+Question 13
+Identify choices indicating the relationship of SAFTINet to OMOP.
+
+
+SAFTINet implemented a subset of the OMOP Common Data Model
+
+
+SAFTINet developed additional data integration tools and a query portal
+
+
+SAFTINet populated a subset of the OMOP Common data model with synthetic data
+
+
+SAFTINet extended the OMOP Common Data Model with new parts
+
+
+Question 14
+Identify accomplishments of SAFTINet.
+
+
+Extensions of the OMOP Common Data Model with new parts.
+
+
+Collection of secondary medical data from a broad network of health care organizations, primary care practices, providers, and patients
+
+
+Collected claims data from multiple USA states
+
+
+Established governance committees
+
+
+
+Question 15
+The Scalable Architecture for Federated Translational Inquiries Network (SAFTINet) is a
+
+
+a single organization data warehouse with mandatory participation by departments.
+
+
+a federated data warehouse with mandatory participation.
+
+
+a federated data warehouse with optional participation.
+
+
+a single organization data warehouse with optional participation by departments.
